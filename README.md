@@ -1,4 +1,4 @@
-![image](https://github.com/CodeByTanya/DocEasy/assets/147076219/8f0de363-bba1-4631-affe-841206a02711)# DocEasy
+# DocEasy
 
 “DocEasy” is a software application developed with the intention of scanning text images and converting them into digitized editable documents using OCR technology. OCR also called Optical Character Reader is a system that provides a full alphanumeric recognition of printed or handwritten characters at electronic speed by simply scanning the form. The main purpose is to help the user to have an easy approach to scan any text and edit it with minimum hardware requirements. It maintains a high level of accuracy in recognizing the characters and all the documents scanned can be directly saved in our devices which can easily be accessed. The OCR technology used performs the tasks in less amount of time and more efficiently without the need to retype the document
 
