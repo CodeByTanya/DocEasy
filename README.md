@@ -10,13 +10,7 @@
 
 **Product Features:**
 We aim to make an application that converts handwritten documents into digitized format. We will integrate our additional features with the existing OCR-based technology Tesseract and release our product with the best user interface.
- Upon successful conversion, it lets the user specify which format he wants the output into like a .pptx, .docx, .xlsx, etc. Our app will contain the following tabs for best user experience: 
- * Tutorial/Help
- * Upload Picture
- * Import document
- * Open with another application
- * Edit
- * Share
+ Upon successful conversion, it lets the user specify which format he wants the output into like a .pptx, .docx, .xlsx, etc. 
 
 | User action | DocEasy Response   |
 | :---:   | :---: |
